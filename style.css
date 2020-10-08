@@ -185,10 +185,12 @@
 
         .footer1{
             /* width: 80%; */
+            
               align-content: center; 
               justify-content: space-between;
         }
-       .footer a{
+       .footer a{flex: 20%;
+               margin: 1em;
             font-size: 3.5vw;
            justify-content: space-around;
         }
